@@ -1,0 +1,327 @@
+{
+  "metadata": {
+    "fonte": "Manual Geral de Concessão de Crédito Imobiliário CAIXA",
+    "titulo": "CONCESSÃO DE CRÉDITO IMOBILIÁRIO PARA PESSOA FÍSICA – AQUISIÇÃO E CONSTRUÇÃO – REDE PARCEIRA",
+    "unidades_gestoras": [
+      "GEHAP – GN HABITACAO POPULAR PESSOA FISICA",
+      "GEHAM – GN HABITACAO DE MERCADO PESSOA FISICA"
+    ],
+    "classificacao": "Caderno de Orientação Operacional aos Correspondentes CAIXA AQUI",
+    "publico_alvo": "Correspondente CAIXA AQUI negocial",
+    "data_processamento": "2026-01-11",
+    "tamanho_original": "796.315 caracteres",
+    "grau_sigilo": "#EXTERNO.CONFIDENCIAL"
+  },
+  "finalidade": [
+    "Concessão de financiamento imobiliário para aquisição, construção e reforma de imóveis urbanos",
+    "Concessão de descontos e subsídios do FGTS e/ou da União no Programa Minha Casa, Minha Vida"
+  ],
+  "programas": {
+    "PMCMV": {
+      "nome_completo": "Programa Minha Casa, Minha Vida",
+      "operacoes": [
+        "Aquisição Imóvel Novo ou Usado",
+        "Aquisição de Terreno e Construção",
+        "Construção em Terreno Próprio",
+        "Conclusão, Ampliação, Reforma ou Melhoria (exceto Classe Média)",
+        "Reforma ou Melhoria PCD (Exceto Classe Média)",
+        "Imóveis Caixa/AMV (Adjudicados, arrematados em Leilão Caixa)"
+      ],
+      "enquadramento": "Determinado pelo valor do imóvel (valor de venda e compra ou investimento), recorte populacional/territorial, e renda familiar",
+      "referencia_normativa": "MN, MO30824",
+      "recursos": [
+        "FGTS",
+        "SBPE",
+        "Fundo Social"
+      ]
+    },
+    "FGTS": {
+      "nome_completo": "Carta de Crédito FGTS/Programa Pró-cotista",
+      "operacoes": [
+        "Aquisição Imóvel Novo ou Usado",
+        "Aquisição de Terreno e Construção",
+        "Construção em Terreno Próprio"
+      ],
+      "requisitos": [
+        "Ser titular de CV FGTS com mínimo de 3 anos de trabalho sob o regime do FGTS",
+        "Contrato de trabalho ativo sob regime do FGTS ou saldo em CV, de, no mínimo, 10% do valor da avaliação do imóvel"
+      ],
+      "beneficio": "Redutor de 0,5% na taxa de juros para cotista do FGTS"
+    },
+    "SBPE": {
+      "nome_completo": "Carta de Crédito SBPE",
+      "operacoes": [
+        "Aquisição de Imóvel Novo ou Usado (Residencial ou Comercial/Misto)",
+        "Aquisição de Terreno e Construção (somente residencial)",
+        "Construção em Terreno Próprio (somente residencial)",
+        "Reforma Casa com Garantia de Imóvel (somente residencial)",
+        "Aquisição de Lote Urbanizado Alocação de Recursos (somente residencial)",
+        "Aquisição de Imóvel CAIXA/AMV"
+      ],
+      "caracteristicas": "Não há critérios específicos para enquadramento",
+      "referencia_normativa": "MN, MO30769",
+      "novidade": "Fim da restrição de financiamento de segundo imóvel"
+    },
+    "RECURSOS_LIVRES": {
+      "nome_completo": "Recursos Livres",
+      "operacoes": [
+        "Aquisição de Imóvel Novo ou Usado (Residencial)"
+      ],
+      "enquadramento": [
+        "Imóveis com valor de avaliação acima de 1,5 milhão",
+        "Cliente que já possua financiamento imobiliário ativo na CAIXA, mesmo que o imóvel tenha valor de avaliação inferior a 1,5 milhão"
+      ]
+    }
+  },
+  "exigencias_tomador": {
+    "requisitos_obrigatorios": [
+      "Ter idoneidade cadastral",
+      "Inscrição obrigatória no CPF com situação regular junto à Receita Federal do Brasil",
+      "Comprovar residência no Brasil",
+      "Não ser sócio ou dirigente de empresas da construção civil para aquisição de imóveis na planta objeto de incorporação ou construção da empresa da qual faz parte",
+      "Ser brasileiro nato ou naturalizado ou estrangeiro(s) detentor(es) de Carteira de Registro Nacional Migratório - RNM ou Carteira de Registro Nacional de Estrangeiro - RNE válida e CPF regular junto à Receita Federal"
+    ],
+    "restricoes_cca": [
+      "É vedado ao CCA atuar na contratação de propostas habitacionais e comerciais cuja comprovação de renda seja de emissão do próprio Correspondente CAIXA Aqui e sócios, exceto para abertura de contas correntes, com a finalidade de crédito salário"
+    ],
+    "situacoes_especiais": [
+      "Para modalidade de construção, é permitido que o Responsável Técnico pela Obra figure como proponente ou cônjuge do proponente, devendo as vistorias de obra ocorrer obrigatoriamente na forma presencial, com emissão do RAE",
+      "É permitido financiamento à pessoa incapaz para os atos da vida civil, que se encontre sob curatela, sendo considerada somente a renda do incapaz, vedada a aceitação da renda familiar do seu curador",
+      "Admite-se a concessão de financiamento com utilização da renda familiar do proponente incapaz mediante a apresentação de autorização judicial"
+    ]
+  },
+  "exigencias_vendedor": {
+    "pessoa_fisica": [
+      "Ter capacidade civil",
+      "Ser maior de 18 anos ou ser menor emancipado com idade igual ou superior a 16 anos completos",
+      "Ter CPF com situação regular junto à Receita Federal do Brasil",
+      "Comprovação de estado civil",
+      "Ser brasileiro nato, naturalizado ou estrangeiro(s) detentor(es) de RNM ou RNE válida e CPF regular"
+    ],
+    "pessoa_juridica": [
+      "Ter CNPJ com situação regular junto à Receita Federal do Brasil",
+      "Para fundos de Investimento, documento deliberando sobre a constituição do Fundo e regulamento, registrados em Cartório de Títulos e Documentos ou na CVM",
+      "Sócio/representante legal ser brasileiro nato ou naturalizado ou estrangeiro(s) detentor(es) de RNM ou RNE válida e CPF regular"
+    ],
+    "situacoes_especiais": [
+      "Se vendedor(es) emancipado(s) (idade entre 16 e 18 anos incompletos), analfabetos e deficientes visuais, que tenham endereço residencial ou comercial no exterior – encaminhar o cliente à Agência e PA de vinculação",
+      "Se o(s) vendedor(es) for(em) ascendente(s) do comprador(es), deve ser encaminhado à Agência/PA de vinculação para contratação"
+    ]
+  },
+  "exigencias_imovel": {
+    "requisitos_basicos": [
+      "Estar localizado em área urbana",
+      "Possuir vias de acesso, soluções para abastecimento de água, esgoto pluvial e sanitário e energia elétrica (pública e domiciliar)",
+      "Estar livre e desembaraçado de quaisquer ônus",
+      "Possuir Certidão Individualizada e Atualizada de Inteiro Teor da Matrícula registrada junto ao RI",
+      "Ser aceito pela CAIXA como garantia"
+    ],
+    "situacoes_aceitas": [
+      "Com parte de área edificada não averbada",
+      "Com parte de área de uso comercial (imóvel misto)",
+      "Sob regime de enfiteuse ou aforamento de imóveis de particulares (registrado até 10/01/2003)",
+      "Sob regime de enfiteuse administrativa/aforamento exclusivamente para os imóveis da União",
+      "Sob regime de aforamento exclusivamente para os terrenos de marinha e acrescidos",
+      "Imóvel de marinha com até 60% da área sob Regime de Ocupação (condições específicas)",
+      "Oriundo de empreendimento financiado pela CAIXA",
+      "Com concessão de Direito Real de Uso (CDRU) concedida pelo poder público local",
+      "Com 'habite-se parcial'",
+      "Submetido ao regime de afetação",
+      "Localizado em condomínio de lotes",
+      "Imóvel CAIXA/AMV",
+      "De madeira, casa pré-fabricada ou com outras tecnologias construtivas"
+    ],
+    "impedimentos": [
+      "Bens ou imóveis com contaminação por substâncias químicas",
+      "Bens de hospitais filantrópicos e Santas Casas de Misericórdia",
+      "Propriedade(s) cuja(s) matrícula(s) haja averbação de cancelamento, suspensão ou bloqueio",
+      "Gravado com cláusula de usufruto",
+      "Tombado ou em fase de tombamento pelo Patrimônio Histórico e Artístico",
+      "Alienado/hipotecado em garantia de operação de crédito em outra instituição",
+      "Gravado com cláusula de inalienabilidade ou outro ônus",
+      "Com destinação agrícola, inclusive sítios, glebas ou granjas",
+      "Com características de imóvel multifamiliar",
+      "Próprio da União, Estado, Município ou Autarquia",
+      "Que já tenha sido de propriedade do proponente nos últimos 02 anos",
+      "Cujo vendedor seja pessoa jurídica e o proponente seja sócio ou representante legal",
+      "Sem nenhuma área construída averbada (exceto lote urbanizado)",
+      "Localizado em condomínio com características de loteamento irregular",
+      "Sob regime de ocupação",
+      "Registrados como imóvel do tipo 'Laje'",
+      "Cuja edificação possua característica de hotel/apart hotel",
+      "Sob regime de enfiteuse não permitida"
+    ],
+    "exigencias_especificas_df": [
+      "Declaração de Capacidade de Atendimento das Ligações Individuais emitida pela Concessionária",
+      "Declaração de Execução de Elementos Construtivos – DEEC",
+      "Verificação pela engenharia da CAIXA das exigências técnicas estabelecidas para os imóveis localizados no Distrito Federal e na região do Entorno do DF"
+    ]
+  },
+  "modalidades_construcao": {
+    "construcao_individual": {
+      "percentual_execucao_maximo": "70%",
+      "prazo_construcao": "Conforme cronograma aprovado",
+      "acompanhamento": "Vistorias obrigatórias",
+      "documentos_necessarios": [
+        "Projeto arquitetônico aprovado",
+        "Licenciamento de obra",
+        "Cronograma físico-financeiro",
+        "ART/RRT do responsável técnico"
+      ],
+      "observacoes": [
+        "Destinada exclusivamente à Pessoa Física",
+        "Vedada concessão a empreendedor Pessoa Jurídica",
+        "Não permitido desvio da finalidade do projeto",
+        "RT da obra pode ser proponente (vistoria presencial obrigatória)"
+      ]
+    },
+    "reforma_ampliacao": {
+      "tipos": [
+        "Reforma com ampliação",
+        "Reforma sem ampliação",
+        "Reforma PCD"
+      ],
+      "exigencias": [
+        "Projeto de reforma aprovado",
+        "Licenciamento quando necessário",
+        "Cronograma de execução"
+      ],
+      "observacao": "Imóvel deve estar registrado em nome de todos os proponentes"
+    }
+  },
+  "parametros_financiamento": {
+    "modalidades_taxa": [
+      "Taxa fixa",
+      "Taxa variável indexada",
+      "Taxa customizada"
+    ],
+    "indexadores": [
+      "TR (Taxa Referencial)",
+      "IPCA (Índice de Preços ao Consumidor Amplo)",
+      "Poupança"
+    ],
+    "sistemas_amortizacao": [
+      "SAC (Sistema de Amortização Constante)",
+      "PRICE (Sistema Francês)"
+    ],
+    "garantias": [
+      "Hipoteca do imóvel financiado",
+      "Alienação fiduciária"
+    ],
+    "seguros_obrigatorios": [
+      "MIP (Morte e Invalidez Permanente)",
+      "DFI (Danos Físicos ao Imóvel)",
+      "DFC (Danos Físicos ao Conteúdo) - opcional"
+    ],
+    "carencia": "Possível para unidades vinculadas ao empreendimento Ilha Pura"
+  },
+  "tarifas_custos": {
+    "tarifa_avaliacao": {
+      "nome": "Tarifa de Avaliação de Bens Recebidos em Garantia",
+      "aplicacao": "Todas as operações",
+      "obrigatoriedade": "Recolhimento obrigatório"
+    },
+    "tao": {
+      "nome": "TAO - Tarifa de Acompanhamento da Operação",
+      "aplicacao": "Construção FGTS/PMCMV",
+      "finalidade": "Acompanhamento de obras"
+    },
+    "tarifa_reavaliacao": {
+      "nome": "Tarifa de Reavaliação de Bens Recebidos em Garantia",
+      "aplicacao": "SBPE",
+      "quando": "Quando necessária reavaliação"
+    },
+    "tarifa_analise_seguro": {
+      "nome": "Tarifa para Análise de Apólice Individual de Seguros",
+      "aplicacao": "MIP, DFI e DFC",
+      "finalidade": "Análise de apólices individuais"
+    },
+    "ta": {
+      "nome": "TA - Tarifa de Administração de Contrato",
+      "aplicacao": "Administração mensal do contrato",
+      "periodicidade": "Mensal"
+    },
+    "outros_custos": [
+      "IOF conforme legislação vigente",
+      "Primeiros prêmios de seguro obrigatórios",
+      "Despesas cartoriais (podem ser financiadas)"
+    ]
+  },
+  "compliance": {
+    "pld": {
+      "nome": "Prevenção à Lavagem de Dinheiro, ao Financiamento do Terrorismo e da Proliferação de Armas de Destruição em Massa",
+      "obrigatoriedade": "Verificação obrigatória em todas as operações"
+    },
+    "conflito_interesse": {
+      "nome": "Conflito de Interesse",
+      "verificacoes": "Identificação de conflitos entre partes envolvidas"
+    },
+    "legitimidade": {
+      "nome": "Legitimidade da Contratação/Prestação de Serviços",
+      "objetivo": "Verificação da legitimidade da operação"
+    },
+    "pesquisas_cadastrais": {
+      "nome": "Realização das Pesquisas Cadastrais",
+      "obrigatoriedade": "Consultas obrigatórias antes da formalização"
+    },
+    "conformidade_proativa": {
+      "nome": "Conformidade Proativa",
+      "quando": "Obrigatória antes da formalização da contratação"
+    }
+  },
+  "procedimentos_operacionais": {
+    "qualificacao_proposta": [
+      "Oferta do produto adequado ao cliente",
+      "Comunicação ao cliente",
+      "Entrevista e constatação da renda",
+      "Avaliação de risco do tomador",
+      "Avaliação do imóvel",
+      "Análise jurídica",
+      "Análise de alçada"
+    ],
+    "formalizacao": [
+      "Assinatura do contrato",
+      "Registro do contrato",
+      "Crédito dos recursos",
+      "Conformidade do registro"
+    ],
+    "acompanhamento": [
+      "Cobrança do encargo mensal",
+      "Acompanhamento de obras (construção)",
+      "Gestão de garantias",
+      "Atendimento ao cliente"
+    ]
+  },
+  "canais_atendimento": {
+    "app_habitacao": {
+      "nome": "APP Habitação CAIXA",
+      "funcionalidades": [
+        "Simulação de financiamento",
+        "Acompanhamento de proposta",
+        "Formalização de contrato",
+        "Consulta de saldo devedor"
+      ]
+    },
+    "siopi": {
+      "nome": "Sistema SIOPI",
+      "finalidade": "Cadastramento e acompanhamento de propostas",
+      "acesso": "Internet"
+    },
+    "agencias_pa": {
+      "nome": "Agências e Postos de Atendimento",
+      "restricao": "Não é permitido encaminhamento para Agências Digitais"
+    }
+  },
+  "sustentabilidade": [
+    "Possibilidade de carência para pagamento dos encargos",
+    "Financiamento das despesas cartoriais",
+    "Simulador na internet com informações detalhadas",
+    "Cartilha com orientações sobre financiamento habitacional",
+    "Cursos de Educação Financeira",
+    "Responsabilidade Social, Ambiental e Climática"
+  ],
+  "alteracoes_versao_atual": {
+    "alteracao": "Item 3.1.1.1 – público-alvo – alteração do texto contemplando o fim da restrição do encaminhamento de propostas habitacionais para vinculação às Agências Singulares",
+    "exclusao": "Item 3.3.1.6 – exigências e impedimentos – tomador(es) – exclusão do texto contemplando o fim da restrição de financiamento de segundo imóvel nas contratações do programa SBPE"
+  }
+}
